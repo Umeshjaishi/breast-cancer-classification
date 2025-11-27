@@ -10,7 +10,7 @@ A machine learning project built in Python and Google Colab using the
 - Model evaluation: accuracy, confusion matrix, ROC curve
 
 ## 📊 Result
-Model achieved ** 96% accuracy ** on the test set.
+Model achieved **96% accuracy** on the test set.
 
 ## 📁 Files
 - `breast_cancer_classification.ipynb` — Colab notebook containing all code
